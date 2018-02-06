@@ -1,17 +1,17 @@
-# <> Desafio Frontend BIT - SP </>
+# <> Desafio Frontend Natuelabs - SP </>
 
 ## Sobre
 
-Nosso teste consiste em implementar uma aplicação client-side, que consulte uma [API](http://www.mocky.io/v2/5a5e38f3330000b0261923a5) e mostre os dados do perfil de um usuário. Esta aplicação deve funcionar nos navegadores mais recentes do mercado.
+Nosso teste consiste em implementar uma aplicação client-side, que consulte uma [API](http://www.mocky.io/v2/5d2c9941310000e875f5aa86) e mostre os dados do perfil de um usuário. Esta aplicação deve funcionar nos navegadores mais recentes do mercado.
 
-Nesse link você encontra o [layout](https://github.com/b2w-marketplace/code-challenge/blob/master/files/layout-code-challenge.jpg) do desafio:
+Nesse link você encontra o [layout](https://github.com/natuelabs/challenge-frontend/blob/master/files/layout-code-challenge.jpg) do desafio:
 
-![Layout](https://github.com/b2w-marketplace/code-challenge/blob/master/files/layout-code-challenge.jpg)
+![Layout](https://github.com/natuelabs/challenge-frontend/blob/master/files/layout-code-challenge.jpg)
 
 
-Aqui temos o arquivo .psd para [download](https://github.com/b2w-marketplace/code-challenge/blob/master/files/layout-code-challenge.psd).
+Aqui temos o arquivo .psd para [download](https://github.com/natuelabs/challenge-frontend/blob/master/files/layout-code-challenge.psd).
 
-Esse é o link da [API](http://www.mocky.io/v2/5a5e38f3330000b0261923a5)
+Esse é o link da [API](http://www.mocky.io/v2/5d2c9941310000e875f5aa86).
 
 ## Desafio:
 
